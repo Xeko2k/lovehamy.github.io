@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
-
-# Your name to show in the footer
+title     : Tình yêu Hà My
+Các bác sĩ cho biết thêm   :
+# Tên bạn hiển thị ở chân trang
 author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Thực rầ mình đang test dự án làm web nhanh trên Github thôi :))"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
